@@ -139,7 +139,7 @@ wallFunctions
 **uTauCoeff** - *optional* > Coefficient used in calculation of friction velocity. Method specific.
 > Default: *1.0*
 
-**wallFunctions** - *required if not laminar* > subdict with specified wall functions.
+**wallFunctions** - *required if not laminar* > Subdict with specified wall functions.
 > **nut** - *required* > wall function for nut.
 >> Possible values: {*nutkWallFunction*}
 

@@ -1,1 +1,0 @@
-**[Home ](Home)-|-[ Installation ](01-Installation)-|-[ User guide ](02-User-guide)-|- Tutorials -|-[ Code ](https://github.com/LucieKubickova/openHFDIBRANS)-|-[ Issues](https://github.com/LucieKubickova/openHFDIBRANS/issues)**

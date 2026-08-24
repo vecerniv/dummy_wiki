@@ -1,0 +1,23 @@
+USER GUIDE
+
+to summarize: need to update options in tutorials or options in user guide
+
+-- HFDIBDEMDict:
+	- sdBasedLambda?
+	- stlName?
+	- surfAreaType?
+
+-- HFDIBRAS:
+	- add HFDIBRASModel options?
+
+-- calculateForceCoeffs:
+	- add option descriptions to user guide
+
+TUTORIALS
+
+-- nail down the structure
+
+-- prepare the case domain images
+
+-- 3D case:
+	- decide if and what to include
